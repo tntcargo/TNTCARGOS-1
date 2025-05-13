@@ -1,0 +1,23 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sauvegardes d'éditeurs
+*.bak
+*.tmp
+*.swp
+
+# Fichiers du SPCK Editor (si jamais tu en utilises)
+.spck-temp/
+.spck-cache/
+
+# Node modules (si tu ajoutes du JS avec npm un jour)
+node_modules/
+
+# Dossiers de build (si tu ajoutes un générateur plus tard)
+dist/
+build/
+
+# Fichiers personnels ou sensibles
+.env
+*.log
